@@ -19,3 +19,10 @@ In the backend directory, for start the nodeJs server run:
 
 Runs the app in the development mode.\
 Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+
+## Endpoints
+
+[http://localhost:5000/prices](http://localhost:5000/prices) to enter de price array
+
+[http://localhost:5000/profits](http://localhost:5000/profits) to get de profit object
+
